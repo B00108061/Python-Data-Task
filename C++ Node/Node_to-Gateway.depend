@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516074600 source:d:\aaa- iot- materials\software engineering\node_to-gateway\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<winsock.h>
+	<sstream>
+
